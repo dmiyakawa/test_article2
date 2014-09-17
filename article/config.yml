@@ -1,22 +1,13 @@
-# review-epubmaker向けの設定ファイルの例。
-# yamlファイルをRe:VIEWファイルのある場所に置き、
-# 「review-epubmaker yamlファイル」を実行すると、<bookname>.epubファイルが
-# 生成されます。
-# このファイルはUTF-8エンコーディングで記述してください。
-
-# ブック名(ファイル名になるもの。ASCII範囲の文字を使用)
 bookname: book
-# 書名
 booktitle: Re:VIEWサンプル書籍
-# 著者
-aut: 高橋征義
-prt: 達人出版会
-prt_url:  http://github.com/takahashim/review-sample-book/
-edt: 高橋征義
-date: 2011-08-03
+aut: 宮川大輔
+prt: ほげほげ
+prt_url: https://mowa-net.jp/
+edt: 宮川大輔
+date: 2014-09-17
 rights: |
-  (C) 2011 Masayoshi Takahashi
-description: 
+  (C) 2014 Daisuke Miyakawa
+description: テストアーティクル
 # 以下はオプション
 # prt: 出版社
 # asn: Associated name

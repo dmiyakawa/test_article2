@@ -1,9 +1,7 @@
 PREDEF:
 
 CHAPS:
-  - article_01.re
-  - article_02.re
   - article_03.re
+  - article_02.re
 
 POSTDEF:
-
