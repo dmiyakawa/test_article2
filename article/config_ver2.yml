@@ -1,0 +1,46 @@
+bookname: book
+booktitle: サンプル書籍 Ver.2
+aut: 宮川大輔
+prt: ほげほげ
+prt_url: https://mowa-net.jp/
+edt: 宮川大輔
+date: 2014-09-17
+rights: |
+  (C) 2014 Daisuke Miyakawa
+description: バージョン2
+# 以下はオプション
+# prt: 出版社
+# asn: Associated name
+# ant: Bibliographic antecedent
+# clb: 貢献者
+# edt: 編集者
+# dsr: デザイナ
+# ill: イラストレータ
+# pht: 撮影者
+# trl: 翻訳者
+# date: 刊行日
+# rights: 権利表記
+# description: ブックの説明
+#
+# coverfile: カバーページのbody要素内に挿入する内容を記述したファイル名
+coverfile: _cover.html
+# coverimage: 表紙用画像ファイル
+coverimage: cover2.jpg
+# 固有IDに使用するドメイン
+urnid: http://tatsu-zine.com/books/review-sample-book/1.0.0/
+# CSSファイル (yamlファイルおよびRe:VIEWファイルを置いたディレクトリにあること
+stylesheet: style.css
+# 目次として抽出するレベル
+toclevel: 2
+# セクション番号を表示するレベル
+secnolevel: 3
+# review-compileに渡すパラメータ
+params: --stylesheet=style.css
+# 目次生成用？
+mytoc: true
+# 奥付生成用
+colophon: true
+texstyle: reviewmacro
+pubhistory: |
+  2011年08月03日 v1.0.0版発行
+debug: true
