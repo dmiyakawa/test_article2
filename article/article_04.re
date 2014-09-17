@@ -186,7 +186,7 @@
 
 //footnote[fn_01][＃「廴＋囘」、第4水準2-12-11]
 
-= 参考
+== 参考
 
 @<href>{http://www.aozora.gr.jp/cards/001579/card55614.html}
 
