@@ -1,3 +1,12 @@
 title: test_article2
 description: 実験用ファイルその2
-pdf_font: ipa
+specs: 
+  - pdf
+  - name: pdf-release
+    rule_name: pdf
+    out_font: ipa
+  - epub
+  - text
+  - idgxml
+  - mobi
+  - html
