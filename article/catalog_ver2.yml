@@ -1,6 +1,7 @@
 PREDEF:
 
 CHAPS:
+  - article_04.re
   - article_03.re
   - article_02.re
 
