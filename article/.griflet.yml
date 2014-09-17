@@ -5,6 +5,10 @@ specs:
   - name: pdf-release
     rule_name: pdf
     out_font: ipa
+  - name: pdf-v2
+    rule_name: pdf
+    catalog_file: catalog_ver2.yml
+    out_font: ipa
   - epub
   - text
   - idgxml
