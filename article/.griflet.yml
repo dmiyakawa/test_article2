@@ -7,7 +7,7 @@ specs:
     out_font: ipa
   - name: pdf-v2
     rule_name: pdf
-    catalog_file: config_ver2.yml
+    config_file: config_ver2.yml
     catalog_file: catalog_ver2.yml
     out_font: ipa
   - epub
